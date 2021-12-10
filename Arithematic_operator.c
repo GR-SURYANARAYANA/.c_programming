@@ -1,6 +1,3 @@
-/*AIM:-uses and types the arithmetic operators
-     and difference of usage of data type "int","float","double"*/
-//code:-
 #include<stdio.h>
 int integer()
 {
@@ -44,32 +41,3 @@ int main()
     f();
     dl();
 }
-
-
-
-
-/*OUTPUT
-INTEGER
-sum= 70
-difference=30
-multiplication=1000
-division=2
-reminder of division=10
-FLOAT
-sum= 110.699997
-difference=-10.299999
-multiplication=3037.100098
-division=0.829752
-division=0.83
-division=0.8298
-
- DOUBLE
-sum= 43.800000
-difference=17.400000
-multiplication=403.920000
-division=2.318182
-division=2.3182
-division=2.31818182
-
-Process Finished.
->>>*/
