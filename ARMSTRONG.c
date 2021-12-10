@@ -1,4 +1,3 @@
-// PROGRAM TO KNOW ARMSTRONG NUMBERS
 #include<stdio.h>
 #include<math.h>
 int armstrong()
@@ -68,37 +67,3 @@ int main()
     }
 return 0;   
 }
-
-
- /*Output 1
-PRESS 
- 1.TO CHECK ARMSTRONG NUMBER FOR A GIVEN NUBER 
- 2.TO KNOW THE ARMSTRONG NUMBER FOR A GIVEN MAX RANGE
-ENTER THE CHOICE >>>1
-enter the number >>>1211
-
- 19 its not an armstrong number
-
-Process Finished.
->>> 
- Output 2
-PRESS 
- 1.TO CHECK ARMSTRONG NUMBER FOR A GIVEN NUBER 
- 2.TO KNOW THE ARMSTRONG NUMBER FOR A GIVEN MAX RANGE
-ENTER THE CHOICE >>>2
-RANGE FROM 0 to  >>>1000
-0 1 2 3 4 5 6 7 8 9 153 370 371 407 
-
-Process Finished.
->>>
-
- Output 3
-PRESS 
- 1.TO CHECK ARMSTRONG NUMBER FOR A GIVEN NUBER 
- 2.TO KNOW THE ARMSTRONG NUMBER FOR A GIVEN MAX RANGE
-ENTER THE CHOICE >>>3
-
- INVALID RANGE
-
-Process Finished.
->>>*/
