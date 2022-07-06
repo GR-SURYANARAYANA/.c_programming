@@ -1,10 +1,10 @@
-name: C/C++ main
+name: C/C++ workflows
 
 on:
   push:
-    branches: [ main ]
+    branches: [$default-branch ]
   pull_request:
-    branches: [ main ]
+    branches: [$default-branch]
 
 jobs:
   build:
